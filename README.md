@@ -1,10 +1,23 @@
-# Hi, I'm Nivashne Venkatesan
+# Hi, Nivashne here 👋
 
-CSE student at Sri Ramakrishna Engineering College  
-Interested in working with AI, Generative AI, and Web Development.  
-Curious to learn, eager to build, always exploring.
+**Curious mind in the making — currently shaping my tech journey at Sri Ramakrishna Engineering College.**
 
-I believe every line of code has a story and every project is a new adventure.  
-Let's connect and create something amazing together.
+Driven by a passion for **Artificial Intelligence**, **Generative AI**, **Neural Networks**, and **Data Science** – not just as buzzwords, but as tools to solve real-world problems and build futuristic experiences.
 
-[LinkedIn](https://www.linkedin.com/in/nivashne-venkatesan-86aa15347)# About-me
+- 🤖 I enjoy training models, building smart systems, and experimenting with the creative edge of AI.
+- 🧠 Always eager to learn, collaborate, and innovate with fellow tech enthusiasts.
+- 💡 I believe innovation thrives in collaboration, and I'm excited to team up to turn bold ideas into reality
+
+
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nivashne)
+[![GitHub](https://img.shields.io/badge/GitHub-222?logo=github)](https://github.com/Nivashne)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:nivashnevenkatesan@email.com)
+
+---
+
+*Let’s connect, code, and co-create the future!*
+
