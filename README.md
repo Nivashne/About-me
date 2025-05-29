@@ -6,21 +6,16 @@ Driven by a passion for **Artificial Intelligence**, **Generative AI**, **Neural
 
 - 🤖 I enjoy training models, building smart systems, and experimenting with the creative edge of AI.
 - 🧠 Always eager to learn, collaborate, and innovate with fellow tech enthusiasts.
-- 💡 I believe innovation thrives in collaboration, and I'm excited to team up to turn bold ideas into reality
-
+- 💡 I believe innovation thrives in collaboration, and I'm excited to team up to turn bold ideas into reality.
 
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](www.linkedin.com/in/
-nivashne-venkatesan-86aa15347
-Vanity URL name
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nivashne-venkatesan-86aa15347/)
 [![GitHub](https://img.shields.io/badge/GitHub-222?logo=github)](https://github.com/Nivashne)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:nivashnevenkatesan@email.com)
 
 ---
 
 *Let’s connect, code, and co-create the future!*
-
