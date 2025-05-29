@@ -4,9 +4,9 @@
 
 Driven by a passion for **Artificial Intelligence**, **Generative AI**, **Neural Networks**, and **Data Science** – not just as buzzwords, but as tools to solve real-world problems and build futuristic experiences.
 
-- 🤖 I enjoy training models, building smart systems, and experimenting with the creative edge of AI.
-- 🧠 Always eager to learn, collaborate, and innovate with fellow tech enthusiasts.
-- 💡 I believe innovation thrives in collaboration, and I'm excited to team up to turn bold ideas into reality.
+ I enjoy training models, building smart systems, and experimenting with the creative edge of AI.
+ Always eager to learn, collaborate, and innovate with fellow tech enthusiasts.
+ I believe innovation thrives in collaboration, and I'm excited to team up to turn bold ideas into reality.
 
 ---
 
