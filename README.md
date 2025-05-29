@@ -13,7 +13,7 @@ Driven by a passion for **Artificial Intelligence**, **Generative AI**, **Neural
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>)
+[![LinkedIn](www.linkedin.com/in/nivashne-venkatesan-86aa15347)
 [![GitHub](https://img.shields.io/badge/GitHub-222?logo=github)](https://github.com/Nivashne)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:nivashnevenkatesan@email.com)
 
