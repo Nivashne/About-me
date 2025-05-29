@@ -13,7 +13,10 @@ Driven by a passion for **Artificial Intelligence**, **Generative AI**, **Neural
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](www.linkedin.com/in/nivashne-venkatesan-86aa15347)
+[![LinkedIn](www.linkedin.com/in/
+nivashne-venkatesan-86aa15347
+Vanity URL name
+)
 [![GitHub](https://img.shields.io/badge/GitHub-222?logo=github)](https://github.com/Nivashne)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:nivashnevenkatesan@email.com)
 
