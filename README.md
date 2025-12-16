@@ -1,6 +1,6 @@
 # Hi, Nivashne here 👋
 
-**Curious mind in the making — currently shaping my tech journey at Sri Ramakrishna Engineering College.**
+**Curious mind in the making currently shaping my tech journey at Sri Ramakrishna Engineering College.**
 
 Driven by a passion for **Artificial Intelligence**, **Generative AI**, **Neural Networks**, and **Data Science** – not just as buzzwords, but as tools to solve real-world problems and build futuristic experiences.
 
